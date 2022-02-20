@@ -1,0 +1,4 @@
+Source string: abc4fNotfinEyi 347potNotfinE7i hok78gyui99NotfinE
+Old substring: NotfinE
+New substring: FinE
+New source string: abc4fFinEyi 347potFinE7i hok78gyui99FinE
